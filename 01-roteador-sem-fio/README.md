@@ -1,4 +1,4 @@
-# Configurar um roteador sem fio e clientes (Packet Tracer)
+# Configurar um roteador sem fio e um cliente (Packet Tracer)
 
 Laboratório do Cisco Networking Academy (NetAcad), feito no Cisco Packet Tracer.
 
