@@ -16,7 +16,7 @@ Observar como os pacotes são enviados pela Internet usando endereços IP.
 
 | Dispositivo | Função | Endereço IP |
 |-------------|--------|-------------|
-| PC0 | Host de origem (cliente) | — |
+| PC0 | Host de origem (cliente) | 192.168.1.100 |
 | Servidor Web | Host de destino | 172.33.100.50 |
 
 ![Topologia](img/topologia.png)
