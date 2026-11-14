@@ -18,6 +18,7 @@ suporte de TI / help desk. Estou me preparando pela trilha de formação
 | # | Lab | Conceitos | Dificuldade |
 |---|-----|-----------|--------|
 | 01 | [Roteador sem fio e um cliente](01-roteador-sem-fio) | DHCP, SSID, WPA2, gateway padrão, teste de conectividade | Fácil |
+| 02 | [Conexão com um servidor da web](02-conectar-server-web) | Ping (ICMP), endereçamento IP, ARP, teste de conectividade, cliente-servidor HTTP | Fácil |
 
 ## Como abrir os arquivos
 
