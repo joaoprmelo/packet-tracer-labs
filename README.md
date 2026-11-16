@@ -19,6 +19,7 @@ suporte de TI / help desk. Estou me preparando pela trilha de formação
 |---|-----|-----------|--------|
 | 01 | [Roteador sem fio e um cliente](01-roteador-sem-fio) | DHCP, SSID, WPA2, gateway padrão, teste de conectividade | Fácil |
 | 02 | [Conexão com um servidor da web](02-conectar-server-web) | Ping (ICMP), endereçamento IP, ARP, teste de conectividade, cliente-servidor HTTP | Fácil |
+| 3 | [Configuração do DHCP em um roteador sem fio](./dhcp-roteador-sem-fio) | DHCP, endereçamento IP, gateway padrão, configuração de roteador sem fio, ipconfig, ping | Fácil
 
 ## Como abrir os arquivos
 
